@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sliding Puzzle</string>
+    <string name="new_game">New Game</string>
+
+    <string name="dialog_title">You Won!!</string>
+    <string name="restart">Restart</string>
+    <string name="quit">Quit</string>
+
+</resources>
